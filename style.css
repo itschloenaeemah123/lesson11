@@ -17,3 +17,11 @@ padding-top: 50px;
 padding-bottom: 50px;
 padding-right: 50px;
 }
+
+img#img1{
+    float: left;
+}
+
+img#img2{
+    float: right;
+}
